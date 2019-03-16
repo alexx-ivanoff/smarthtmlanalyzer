@@ -1,0 +1,10 @@
+.test-link-ok {
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+.test-link-ok:hover {
+  color: #fff;
+  background-color: #449d44;
+  border-color: #398439;
+}
